@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.webkit:webkit:1.12.1] /Users/admin48-sb1/.gradle/caches/8.9/transforms/9febd1cf1c3effdc2e76418da84a7529/transformed/webkit-1.12.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/aae8672b60dc56ea86de13b8f1502c6d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/admin48-sb1/.gradle/caches/8.9/transforms/ec2a3d141c180ad55e2138fcc3be2e8c/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/b33fcacb9a636acc74f01415264bb0f8/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:4:5-17:19
+INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:4:5-17:19
+MERGED from [androidx.core:core:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/aae8672b60dc56ea86de13b8f1502c6d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/aae8672b60dc56ea86de13b8f1502c6d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:4:18-45
+	android:allowBackup
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:5:9-72
+	android:enableOnBackInvokedCallback
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:7:36-79
+	android:usesCleartextTraffic
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:6:37-72
+activity#id.local.videopopupguard.MainActivity
+ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:8:9-16:20
+	android:screenOrientation
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:9:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:11:13-55
+	android:exported
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:8:48-71
+	android:configChanges
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:10:13-106
+	android:name
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml
+MERGED from [androidx.webkit:webkit:1.12.1] /Users/admin48-sb1/.gradle/caches/8.9/transforms/9febd1cf1c3effdc2e76418da84a7529/transformed/webkit-1.12.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.12.1] /Users/admin48-sb1/.gradle/caches/8.9/transforms/9febd1cf1c3effdc2e76418da84a7529/transformed/webkit-1.12.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/aae8672b60dc56ea86de13b8f1502c6d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/aae8672b60dc56ea86de13b8f1502c6d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/admin48-sb1/.gradle/caches/8.9/transforms/ec2a3d141c180ad55e2138fcc3be2e8c/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/admin48-sb1/.gradle/caches/8.9/transforms/ec2a3d141c180ad55e2138fcc3be2e8c/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/b33fcacb9a636acc74f01415264bb0f8/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/admin48-sb1/.gradle/caches/8.9/transforms/b33fcacb9a636acc74f01415264bb0f8/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/AndroidManifest.xml

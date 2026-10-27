@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "id.local.videopopupguard.app-mergeDebugResources-5:/values-sw/values-sw.xml",
+            "map": [
+                {
+                    "source": "/Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

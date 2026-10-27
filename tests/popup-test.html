@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="id"><meta charset="utf-8"><title>Popup Guard Test</title>
+<h1>Uji Popup Guard</h1>
+<p>Daftarkan halaman ini lewat panel ekstensi sebelum menguji.</p>
+<button onclick="window.open('about:blank','_blank')">window.open</button>
+<button onclick="window.open('about:blank','advert')">window.open bernama</button>
+<p><a href="about:blank" target="_blank">Tautan blank (harus diblokir)</a></p>
+<p><a href="about:blank" target="advert">Tautan bernama (harus diblokir)</a></p>
+<p><a href="#normal">Tautan biasa (harus tetap bekerja)</a></p>
+<form action="about:blank" target="_blank"><button>Form tab baru</button></form>
+<button onclick="document.querySelector('form').submit()">form.submit()</button>
+<iframe srcdoc="&lt;button onclick=&quot;window.open('about:blank')&quot;&gt;Popup iframe&lt;/button&gt;"></iframe>
+<p><label>URL video MP4 <input id="video-url" type="url"></label>
+<button onclick="document.querySelector('video').src=document.getElementById('video-url').value">Muat video</button></p>
+<video controls width="500"></video><p id="normal">Target tautan normal</p>
+</html>

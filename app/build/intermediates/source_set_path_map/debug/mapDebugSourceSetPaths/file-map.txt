@@ -1,0 +1,10 @@
+id.local.videopopupguard.app-core-1.1.0-0 /Users/admin48-sb1/.gradle/caches/8.9/transforms/6f61606391ba590d6ca80cbdda7a3ded/transformed/core-1.1.0/res
+id.local.videopopupguard.app-webkit-1.12.1-1 /Users/admin48-sb1/.gradle/caches/8.9/transforms/9febd1cf1c3effdc2e76418da84a7529/transformed/webkit-1.12.1/res
+id.local.videopopupguard.app-annotation-experimental-1.4.1-2 /Users/admin48-sb1/.gradle/caches/8.9/transforms/ec2a3d141c180ad55e2138fcc3be2e8c/transformed/annotation-experimental-1.4.1/res
+id.local.videopopupguard.app-pngs-3 /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/build/generated/res/pngs/debug
+id.local.videopopupguard.app-resValues-4 /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/build/generated/res/resValues/debug
+id.local.videopopupguard.app-packageDebugResources-5 /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+id.local.videopopupguard.app-packageDebugResources-6 /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+id.local.videopopupguard.app-debug-7 /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/build/intermediates/merged_res/debug/mergeDebugResources
+id.local.videopopupguard.app-debug-8 /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/debug/res
+id.local.videopopupguard.app-main-9 /Users/admin48-sb1/Documents/dev/mahar/android-popup-guard/app/src/main/res
